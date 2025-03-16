@@ -1,7 +1,7 @@
 from django.db import models
 
 class BombaHeparina(models.Model):
-    nombre_paciente = models.CharField(max_length=255)
+    
     peso = models.FloatField()
     volumen = models.FloatField(null=True, blank=True)
     infusion_actual = models.FloatField(null=True, blank=True)
