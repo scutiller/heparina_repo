@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'heparina_pump.urls'
+ROOT_URLCONF = 'urls'
 
 TEMPLATES = [
     {
