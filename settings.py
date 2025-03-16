@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-1@q8_e27ltimf*irw2fk^wc!gojr0hu%1#x3w5anm)y(ni+_q@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "heparina_hjaf.onrender.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "heparina-repo.onrender.com"]
 
 
 # Application definition
